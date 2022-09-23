@@ -20,5 +20,6 @@ getgenv().Enabled = true
 
 
 -- // main \\ --
-loadstring(game:HttpGet("https://raw.githubusercontent.com/x1mv/TempleHook/main/watermark.hc"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/x1mv/TempleHook/main/main.hc"))()
+wait(0.001)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x1mv/TempleHook/main/watermark.hc"))()
