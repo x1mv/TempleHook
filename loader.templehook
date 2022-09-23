@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x1mv/TempleHook/main/watermark.hc"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x1mv/TempleHook/main/main.hc"))()
