@@ -1,0 +1,31 @@
+local settings = [[
+
+
+
+// best settings \\ 
+ 
+ -- silent lock --
+ || prediction 9 ||
+ || humanoidrootpart ||
+ 
+ ---------------------
+ 
+ -- cam lock -- 
+ || prediction 4 ||
+ || humanoidrootpart||
+ 
+ ---------------------
+ 
+ -- streamable cam lock --
+ 
+ || smooth 0.1267 ||
+ || uppertorso ||
+ 
+ ---------------------
+ 
+ \\ best settings //
+]]
+
+print(settings)
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/x1mv/TempleHook/main/templeware.aim"))()
